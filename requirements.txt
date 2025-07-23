@@ -1,0 +1,11 @@
+# python==3.11.7
+datasets==2.12.0
+PyDelphin==1.9.1
+nltk==3.9.1
+numpy==1.26.3
+pyvis==0.2.0
+scipy==1.13.1
+spacy==3.7.2
+torch==2.1.2
+tqdm==4.65.0
+transformers==4.51.0
